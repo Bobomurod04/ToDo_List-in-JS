@@ -1,0 +1,23 @@
+.todo-card {
+  width: 700px;
+  margin: 50px auto 0;
+}
+
+.todo-edit-input:disabled {
+  border: none;
+  background: transparent;
+  color: #000;
+}
+
+.todo-edit-input {
+  border: none;
+  border-bottom: 1px solid blue;
+  color: #000;
+}
+
+.todo-edit-input:focus {
+  outline: none;
+  border-bottom: 1px solid blue;
+  color: #000;
+}
+/*# sourceMappingURL=main.css.map */
